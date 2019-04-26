@@ -8,6 +8,7 @@ test-CLI is a template Command Line Interface made with Node-js.
 
 # Installation
 
+This works only for Unix based environments.
 ```bash
 cd path/to/directory/test-CLI
 npm install
