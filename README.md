@@ -35,7 +35,7 @@ cd path/to/directory/test-CLI
 sudo npm unlink
 npm uninstall
 ```
-###OR
+### OR
 ```bash
 cd path/to/directory/test-CLI
 npm run uninstall-unlink
