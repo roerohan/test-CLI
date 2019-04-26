@@ -7,7 +7,8 @@
   "bin": "./commands.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install-link": "npm install && sudo npm link"
+    "install-link": "npm install && sudo npm link",
+    "uninstall-unlink": "sudo npm unlink && npm uninstall"
   },
   "repository": {
     "type": "git",

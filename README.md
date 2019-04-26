@@ -27,3 +27,16 @@ test-cli --version : Gives the version being used
 test-cli --help: Shows all commands in a help page
 test-cli add: Adds a User to the local MongoDB database.
 ```
+
+# Uninstall
+
+```bash
+cd path/to/directory/test-CLI
+sudo npm unlink
+npm uninstall
+```
+###OR
+```bash
+cd path/to/directory/test-CLI
+npm run uninstall-unlink
+```
