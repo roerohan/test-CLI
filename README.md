@@ -13,6 +13,11 @@ cd path/to/directory/test-CLI
 npm install
 sudo npm link
 ```
+### OR
+```bash
+cd path/to/directory/test-CLI
+npm run install-link
+```
 
 # Usage
 

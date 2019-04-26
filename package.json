@@ -6,7 +6,8 @@
   "preferGlobal": true,
   "bin": "./commands.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-link": "npm install && sudo npm link"
   },
   "repository": {
     "type": "git",
