@@ -19,6 +19,8 @@ sudo npm link
 cd path/to/directory/test-CLI
 npm run install-link
 ```
+Now test-cli can be used globally.
+
 
 # Usage
 
@@ -39,4 +41,5 @@ npm uninstall
 ```bash
 cd path/to/directory/test-CLI
 npm run uninstall-unlink
+
 ```
