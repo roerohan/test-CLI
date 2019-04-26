@@ -26,8 +26,8 @@ Now test-cli can be used globally.
 
 ```
 test-cli --version : Gives the version being used
-test-cli --help: Shows all commands in a help page
-test-cli add: Adds a User to the local MongoDB database.
+test-cli --help : Shows all commands in a help page
+test-cli add : Adds a User to the local MongoDB database.
 ```
 
 # Uninstall
