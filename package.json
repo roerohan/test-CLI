@@ -1,0 +1,26 @@
+{
+  "name": "test-cli",
+  "version": "1.0.0",
+  "description": "Test Command Line Interface",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roerohan/test-CLI.git"
+  },
+  "author": "Rohan Mukherjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roerohan/test-CLI/issues"
+  },
+  "homepage": "https://github.com/roerohan/test-CLI#readme",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "inquirer": "^6.3.1",
+    "mongoose": "^5.5.4"
+  }
+}
