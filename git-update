@@ -2,5 +2,10 @@
 
 echo "Enter commit message: $@"
 git add .
-git commit -m "$1" || "Changes made"
+commit=$1
+if [[ $# -eq 0 ]]
+then
+ commit="update: Changes made"
+fi
+git commit -m "$commit"
 git push origin master
