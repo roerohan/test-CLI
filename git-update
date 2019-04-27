@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+echo "Enter commit message: $@"
+git add .
+git commit -m "$1 || Changes made"
+git push origin master
