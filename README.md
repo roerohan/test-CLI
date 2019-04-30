@@ -1,6 +1,7 @@
 # test-CLI
 
 test-CLI is a template Command Line Interface made with Node-js.
+Check out the Node-js or Django App Generator at https://github.com/csivitu/CSI-WebApp-Template/.
 
 # Requirements
     Node-js (and npm)
